@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.eclipse.cdt.codan.core.cxx_3.3.0.201602051005">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.cdt.codan.core.cxx_3.3.0.201602051005.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.cdt.codan.core_3.3.0.201602051005.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.cdt.core_5.11.0.201602051005.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.core.resources_3.10.1.v20150725-1910.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.osgi_3.10.102.v20160118-1700.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

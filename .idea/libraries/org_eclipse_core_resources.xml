@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.eclipse.core.resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.core.resources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.equinox.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.osgi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

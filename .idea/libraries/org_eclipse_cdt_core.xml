@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.cdt.core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.cdt.core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

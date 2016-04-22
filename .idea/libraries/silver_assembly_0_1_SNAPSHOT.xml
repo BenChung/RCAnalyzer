@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="silver-assembly-0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/silver-assembly-0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/silver-assembly-0.1-SNAPSHOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>
